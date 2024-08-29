@@ -1,0 +1,12 @@
+:root[data-language='en'] {
+  *,
+  body {
+    font-family: sans-serif !important;
+  }
+}
+
+:root[data-language='zhCN'] {
+  body {
+    font-family: sans-serif !important;
+  }
+}
